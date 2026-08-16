@@ -1,3 +1,3 @@
 # sathak-demo
-this my first repo
+this my first repository.
 author-sathak
